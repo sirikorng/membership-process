@@ -1,0 +1,35 @@
+[20-Jul-2018 06:25:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getThemeDirectory() in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php:24
+Stack trace:
+#0 /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/index.php(8): Fileprocess->form(Array)
+#1 {main}
+  thrown in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 24
+[20-Jul-2018 06:27:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getThemeDirectory() in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php:24
+Stack trace:
+#0 /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/index.php(8): Fileprocess->form(Array)
+#1 {main}
+  thrown in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 24
+[20-Jul-2018 06:27:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getThemeDirectory() in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php:24
+Stack trace:
+#0 /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/index.php(8): Fileprocess->form(Array)
+#1 {main}
+  thrown in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 24
+[20-Jul-2018 06:31:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getThemeDirectory() in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php:24
+Stack trace:
+#0 /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/index.php(8): Fileprocess->form(Array)
+#1 {main}
+  thrown in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 24
+[20-Jul-2018 06:31:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getThemeDirectory() in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php:24
+Stack trace:
+#0 /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/index.php(8): Fileprocess->form(Array)
+#1 {main}
+  thrown in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 24
+[20-Jul-2018 06:39:41 America/Chicago] PHP Warning:  rename(/home1/thailay0/public_html/yourlogo_site/wp-content/themes//XXX,/home1/thailay0/public_html/yourlogo_site/wp-content/themes//xxx_): No such file or directory in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 14
+[20-Jul-2018 06:39:41 America/Chicago] PHP Warning:  rename(/home1/thailay0/public_html/yourlogo_site/wp-content/plugins//XXX,/home1/thailay0/public_html/yourlogo_site/wp-content/plugins//xxx_): No such file or directory in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 14
+[20-Jul-2018 06:41:01 America/Chicago] PHP Warning:  rename(/home1/thailay0/public_html/yourlogo_site/wp-content/themes/XXX,/home1/thailay0/public_html/yourlogo_site/wp-content/themes/xxx_): No such file or directory in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 14
+[20-Jul-2018 06:41:01 America/Chicago] PHP Warning:  rename(/home1/thailay0/public_html/yourlogo_site/wp-content/plugins/XXX,/home1/thailay0/public_html/yourlogo_site/wp-content/plugins/xxx_): No such file or directory in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 14
+[20-Jul-2018 06:41:06 America/Chicago] PHP Warning:  rename(/home1/thailay0/public_html/yourlogo_site/wp-content/themes/XXX,/home1/thailay0/public_html/yourlogo_site/wp-content/themes/xxx_): No such file or directory in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 14
+[20-Jul-2018 06:41:06 America/Chicago] PHP Warning:  rename(/home1/thailay0/public_html/yourlogo_site/wp-content/plugins/XXX,/home1/thailay0/public_html/yourlogo_site/wp-content/plugins/xxx_): No such file or directory in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 14
+[20-Jul-2018 06:41:09 America/Chicago] PHP Warning:  rename(/home1/thailay0/public_html/yourlogo_site/wp-content/themes/XXX,/home1/thailay0/public_html/yourlogo_site/wp-content/themes/xxx_): No such file or directory in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 14
+[20-Jul-2018 06:41:09 America/Chicago] PHP Warning:  rename(/home1/thailay0/public_html/yourlogo_site/wp-content/plugins/XXX,/home1/thailay0/public_html/yourlogo_site/wp-content/plugins/xxx_): No such file or directory in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 14
+[20-Jul-2018 06:41:12 America/Chicago] PHP Warning:  rename(/home1/thailay0/public_html/yourlogo_site/wp-content/themes/XXX,/home1/thailay0/public_html/yourlogo_site/wp-content/themes/xxx_): No such file or directory in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 14
+[20-Jul-2018 06:41:12 America/Chicago] PHP Warning:  rename(/home1/thailay0/public_html/yourlogo_site/wp-content/plugins/XXX,/home1/thailay0/public_html/yourlogo_site/wp-content/plugins/xxx_): No such file or directory in /home1/thailay0/public_html/yourlogo_site/wp-content/plugins/test_plugin/Fileprocess.php on line 14
