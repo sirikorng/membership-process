@@ -19,8 +19,8 @@ Class Fileprocess{
 
 	function form($submitData){
 	//print_r($submitData); 
-        $this->rename($this->getThemeDirectory($path),$submitData['oldfoldername'],$submitData['newfoldername']);		
-        $this->rename($this->getPluginDirectory($path),$submitData['oldfoldername'],$submitData['newfoldername']);
+        $this->rename($this->getThemeDirectory(),$submitData['oldfoldername'],$submitData['newfoldername']);		
+        $this->rename($this->getPluginDirectory(),$submitData['oldfoldername'],$submitData['newfoldername']);
 	}
 
 
